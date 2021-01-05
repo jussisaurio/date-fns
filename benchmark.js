@@ -1,2 +1,2 @@
-var testsContext = require.context('./src/', true, /\/benchmark\.js$/)
+var testsContext = require.context('./src/', true, /\/benchmarkku\.js$/)
 testsContext.keys().forEach(testsContext)
